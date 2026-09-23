@@ -1,6 +1,6 @@
 # Sales Rep Reallocation & Scenario Versioning
 
-**Internship Case Study | Documentation Only**
+**Internship Documentation Only**
 
 ## Overview
 
